@@ -24,14 +24,15 @@ Aesthetic Design: The graph is aesthetically pleasing, with a balanced use of co
 Observations
 Upon examination of the visualization, one can easily identify instances where 2015 broke temperature records. This allows for a visual assessment of whether extreme weather events were more frequent in that particular year.
 
-Expection from the visualization
+Expected Visualization 
 ![image](https://github.com/rvaidya2/RecordBreakingTemperatures/assets/113307228/8ee7a0e0-bffb-401e-ac9f-cad6dfef124e)
 
 
 Conclusion
 The Extreme Weather Trends project provides a visually compelling representation of temperature trends, offering insights into the occurrence of extreme weather events in 2015. This visualization aids in understanding whether the frequency of such events is on the rise, contributing valuable information to the ongoing discourse on climate patterns.
 
-
-
-Output
+Final Output
 ![image](https://github.com/rvaidya2/RecordBreakingTemperatures/assets/113307228/c51c0ea4-11d5-402a-abdc-1cda3110aac3)
+
+
+
