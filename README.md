@@ -9,7 +9,9 @@ Methodology
 We've overlaid a scatter plot of the 2015 data, highlighting points where record highs or lows from the previous decade were surpassed. This approach allows us to pinpoint specific instances of extreme weather events in 2015.
 
 Visualization
-The graph is designed with clarity and precision in mind, adhering to principles from the first module of this course. Here are key features:
+The graph is designed with clarity and precision in mind, adhering to the principles of correct data visualization techniques.
+
+Here are the key features.
 
 Scatter Plot: Each data point from 2015 is represented as a scatter point, with distinctive markers for record highs and lows.
 
